@@ -1,0 +1,29 @@
+body{
+    padding: 20px;
+    background-color: #ccc;
+  }
+  
+  .row{
+    margin: 0 auto;
+  }
+  
+  h1{
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #input{
+    float: left;
+    
+  }
+  
+  #inputText{
+    max-width: 100%;
+    height: 400px;
+  }
+  
+  #outputText{
+    max-width: 100%;
+    height: 400px;
+    font-size: 10px;
+  }
